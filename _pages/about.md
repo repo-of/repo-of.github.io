@@ -1,12 +1,14 @@
 ---
-permalink: /about/
-layout: page
 title: "About"
-subtitle: Why you'd want to go on a date with me
+subtitle:
+permalink: /about/
+layout: splash
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
+author_profile: true
 toc: true
 ---
+
 
 
 
