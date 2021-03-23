@@ -11,4 +11,5 @@ main:
   - title: "Tag"
     url: /tags/
   - title: "Author's home"
-    url:
+    - 동물상테스트: "https://yourface.xyz"
+    - 펜트하우스: "https://thepenthouse.site"
