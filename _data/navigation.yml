@@ -11,8 +11,3 @@ main:
   - title: "Tag"
     url: /tags/
   - title: "Author's home"
-      children:
-        - title: "동물상테스트"
-          url: https://yourface.xyz
-        - title: "펜트하우스"
-          url: https://thepenthouse.site
