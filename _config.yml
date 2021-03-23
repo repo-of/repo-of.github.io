@@ -105,7 +105,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://yourface.xyz"
+      # url: "https://yourface.xyz"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -118,6 +118,16 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+      
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://yourface.xyz"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thepenthouse.site"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://repo-of.github.io"
 
 # Site Footer
 footer:
