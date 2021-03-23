@@ -11,5 +11,4 @@ main:
   - title: "Tag"
     url: /tags/
   - title: "Author's home"
-    - url: https://yourface.xyz
-    - url: https://thepenthouse.site
+    url:
