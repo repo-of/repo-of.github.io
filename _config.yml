@@ -119,10 +119,10 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
       
-    - label: "Website"
+    - label: "동물상테스트"
       icon: "fas fa-fw fa-link"
       url: "https://yourface.xyz"
-    - label: "Website"
+    - label: "펜트하우스"
       icon: "fas fa-fw fa-link"
       url: "https://thepenthouse.site"
     - label: "Website"
