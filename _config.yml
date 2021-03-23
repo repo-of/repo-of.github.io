@@ -100,15 +100,15 @@ author:
   location         : "Somewhere"
   email            :
   links:
-    - label: "Email"
+    - label: "동물상테스트"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "https://yourface.xyz"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://yourface.xyz"
-    - label: "Twitter"
+      url: "https://repo-of.github.io"
+    - label: "펜트하우스"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://thepenthouse.site"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -118,16 +118,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-      
-    - label: "동물상테스트"
-      icon: "fas fa-fw fa-link"
-      url: "https://yourface.xyz"
-    - label: "펜트하우스"
-      icon: "fas fa-fw fa-link"
-      url: "https://thepenthouse.site"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://repo-of.github.io"
+   
 
 # Site Footer
 footer:
