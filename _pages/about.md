@@ -2,7 +2,7 @@
 title: "About"
 subtitle:
 permalink: /about/
-layout: default
+layout: archive
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
 author_profile: true
